@@ -33,3 +33,7 @@ Our model is a BiLSTM model and achieves a 98% accuracy by using the textvectori
 
 
 Note : We just evaluated on toxicity criteria.
+
+**Project** 
+
+We finally deliver an interface using gradio which inputs a sentence and classifies it as toxic or non toxic 
